@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\DenemeWpf\DenemeWpf\obj\Debug\
+D:\Projelerim\project\denemewpf\DenemeWpf\obj\Debug\
 DenemeWpf
 none
 false
 DEBUG;TRACE
-D:\DenemeWpf\DenemeWpf\App.xaml
-2400784391
+D:\Projelerim\project\denemewpf\DenemeWpf\App.xaml
+4751094185
 
-8-1751655489
+13-863254453
 151984215308
-MainWindow.xaml;Page1.xaml;
+FlowDocument1.xaml;MainWindow.xaml;Page1.xaml;UserControl1.xaml;
 
-False
+True
 
