@@ -1,0 +1,15 @@
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\bin\Debug\Windows.Baslangıc.exe.config
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\bin\Debug\Windows.Baslangıc.exe
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\bin\Debug\Windows.Baslangıc.pdb
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc.csprojAssemblyReference.cache
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\MainWindow.g.cs
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\App.g.cs
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc_MarkupCompile.cache
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc_MarkupCompile.lref
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\MainWindow.baml
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc.g.resources
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc.Properties.Resources.resources
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc.csproj.GenerateResource.cache
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc.csproj.CoreCompileInputs.cache
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc.exe
+D:\Projelerim\project\Windows.Baslangıc\Windows.Baslangıc\obj\Debug\Windows.Baslangıc.pdb
