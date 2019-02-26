@@ -8,32 +8,34 @@
         Title="MainWindow" Height="922.004" Width="800">
     <Grid x:Name="Anasayfa" Background="#FF340080">
         <Label Content="BAŞLANGIÇ" HorizontalAlignment="Left" Margin="100,50,0,0" VerticalAlignment="Top" FontSize="45" Foreground="White"/>
-        
+
         <Button HorizontalAlignment="Left" Margin="75,205,0,0" VerticalAlignment="Top" Width="310" Height="150"
                 
             Background="LimeGreen" >
-            <Label Content="Finans" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-135,110,0,0" Foreground="White" FontSize="15"/>
-
+            <Button HorizontalAlignment="Left" VerticalAlignment="Top" Margin="7,-45,0,0" Width="270" Height="30"
+                    Background="LimeGreen">
+                <Label Content="Bursa         ; 60,066 -0,35 (-0,54%)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-5,-3,0,0" Foreground="White" FontSize="15"/>
+            </Button>
         </Button>
-        
+
         <Button HorizontalAlignment="Left" Margin="410,205,0,0" VerticalAlignment="Top" Width="150" Height="150"
                 
                 Background="RoyalBlue" >
-            
+
             <Label Content="OneDrive" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-60,110,0,0" Foreground="White" FontSize="15"/>
         </Button>
         <Button HorizontalAlignment="Left" Margin="580,205,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="DarkRed" />
-        
+
         <Button HorizontalAlignment="Left" Margin="660,205,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="DarkOrange" />
-        
+
         <Button HorizontalAlignment="Left" Margin="580,295,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="LimeGreen"/>
-        
+
         <Button HorizontalAlignment="Left" Margin="660,295,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="Purple"/>
@@ -41,15 +43,15 @@
         <Button HorizontalAlignment="Left" Margin="75,375,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="DodgerBlue"/>
-        
+
         <Button HorizontalAlignment="Left" Margin="155,375,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="Gray"/>
-        
+
         <Button HorizontalAlignment="Left" Margin="75,465,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="MediumPurple"/>
-        
+
         <Button HorizontalAlignment="Left" Margin="155,465,0,0" VerticalAlignment="Top" Width="60" Height="60"
                 
                 Background="DodgerBlue"/>
@@ -65,13 +67,13 @@
                 Background="DodgerBlue">
             <Label Content="Posta" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-135,110,0,0" Foreground="White" FontSize="15"/>
         </Button>
-        
+
         <Button HorizontalAlignment="Left" Margin="410,545,0,0" VerticalAlignment="Top" Width="310" Height="150"
                 
                 Background="MediumPurple">
             <Label Content="Takvim" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-135,110,0,0" Foreground="White" FontSize="15"/>
         </Button>
-        
+
         <Button HorizontalAlignment="Left" Margin="410,715,0,0" VerticalAlignment="Top" Width="150" Height="150"
                 
                 Background="RoyalBlue">
@@ -80,13 +82,81 @@
         <StackPanel HorizontalAlignment="Left" Margin="75,545,0,0" VerticalAlignment="Top" Width="310" Height="320"
                     
                     Background="LimeGreen">
-            <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,85,0,0" Width="150" Height="60" 
+            <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,45,0,0" Width="70" Height="60" 
                     Background="LimeGreen"/>
-            
+            <Label Content="Drawboard PDF" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,-60,0,0" Foreground="White" FontSize="15"/>
+            <Label Content="28,75$" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,-35,0,0" Foreground="White" FontSize="15"/>
+            <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,25,0,0" Width="70" Height="60" 
+                    Background="LimeGreen"/>
+            <Label Content="Sketchable" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,-60,0,0" Foreground="White" FontSize="15"/>
+            <Label Content="Ücretsiz" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,-35,0,0" Foreground="White" FontSize="15"/>
+            <Button Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="25,20 ,0,0" Width="60" Height="60"
+                    Background="LimeGreen"/>
+            <Label Content="Facebook" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,-60,0,0" Foreground="White" FontSize="15"/>
+            <Label Content="Ücretsiz" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="105,-35,0,0" Foreground="White" FontSize="15"/>
+            <Label Content="Olmazsa olmaz uygulamalar" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,-270,0,0" Foreground="White" FontSize="25" Width="225"/>
+
         </StackPanel>
         <DockPanel></DockPanel>
-        <Image Source="icon/sl3/hexagon.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="110,635,0,0" Width="50" Height="50"/>
+        <Image Source="icon/sl3/hexagon.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="110,595,0,0" Width="50" Height="50"/>
 
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/sketch.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="112,683,0,0" Width="45" Height="45"/>
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/windows.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,820,0,0" Width="35" Height="35"/>
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/facebook.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,750,0,0" Width="65" Height="65"/>
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/computer.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="83,383,0,0" Width="45" Height="45"/>
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/files.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="163,383,0,0" Width="45" Height="45"/>
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/files2.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="163,473,0,0" Width="45" Height="45"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/help.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="83,473,0,0" Width="45" Height="45"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/calendar.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="505,563,0,0" Width="100" Height="100"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/mail.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="505,393,0,0" Width="100" Height="100"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/onedrive2.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="435,223,0,0" Width="100" Height="100"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/explorer.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="435,723,0,0" Width="100" Height="100"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/desktop.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="260,383,0,0" Width="100" Height="100"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/youtube.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="588,213,0,0" Width="45" Height="45"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/headphones.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="668,213,0,0" Width="45" Height="45"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/console.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="588,303,0,0" Width="45" Height="45"/>
+
+
+        <DockPanel></DockPanel>
+        <Image Source="icon/sl3/camera.png" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="668,303,0,0" Width="45" Height="45"/>
 
 
     </Grid>

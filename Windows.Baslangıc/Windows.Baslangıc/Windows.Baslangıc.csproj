@@ -97,5 +97,56 @@
   <ItemGroup>
     <Resource Include="icon\sl3\hexagon.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\sketch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\windows.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\computer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\files.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\files2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\mail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\onedrive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\onedrive2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\explorer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\headphones.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\console.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="icon\sl3\camera.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
